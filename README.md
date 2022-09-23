@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @WhiteChen05
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning C-code
-- 
+- ...
 - 
 
 <!---
